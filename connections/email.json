@@ -6,7 +6,7 @@
       "syntax": "liquid",
       "from": "{{ application.name }} <root@auth0.com>",
       "subject": "Welcome to passwordless",
-      "body": "./email.html"
+      "body": "my html"
     },
     "totp": {
       "time_step": 180,
