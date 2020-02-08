@@ -1,0 +1,30 @@
+{
+  "name": "ACTIVA TUS VOTOS DIARIOS DELA ACADEMIA ",
+  "callbacks": [
+    "http://app1.com:3000/callback"
+  ],
+  "allowed_clients": [],
+  "allowed_logout_urls": [],
+  "is_first_party": true,
+  "oidc_conformant": true,
+  "is_token_endpoint_ip_header_trusted": false,
+  "native_social_login": {
+    "apple": {
+      "enabled": false
+    }
+  },
+  "allowed_origins": [],
+  "jwt_configuration": {
+    "alg": "RS256",
+    "lifetime_in_seconds": 36000,
+    "secret_encoded": false
+  },
+  "client_aliases": [],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "implicit",
+    "authorization_code",
+    "refresh_token"
+  ],
+  "custom_login_page_on": false
+}

@@ -1,0 +1,22 @@
+{
+  "options": {
+    "client_id": "421212772105030",
+    "client_secret": "4012edf0967e52d85c6b76d8bf1cd864",
+    "basic": true,
+    "comments": false,
+    "relationships": false,
+    "likes": false,
+    "follower_list": false,
+    "public_content": false,
+    "scope": [
+      "basic"
+    ],
+    "scopeSeparator": " "
+  },
+  "strategy": "instagram",
+  "name": "instagram",
+  "is_domain_connection": false,
+  "enabled_clients": [
+    "3-party (Test Application)"
+  ]
+}

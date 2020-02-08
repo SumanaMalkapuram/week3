@@ -1,0 +1,8 @@
+{
+  "client_id": "ManagementApp",
+  "audience": "urn:3rd-party:api",
+  "scope": [
+    "read:",
+    "write"
+  ]
+}

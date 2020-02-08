@@ -1,0 +1,21 @@
+{
+  "options": {
+    "client_id": "",
+    "profile": true,
+    "full_profile": true,
+    "email": false,
+    "network": false,
+    "scope": [
+      "r_basicprofile",
+      "r_fullprofile"
+    ]
+  },
+  "strategy": "linkedin",
+  "name": "linkedin",
+  "is_domain_connection": false,
+  "enabled_clients": [
+    "auth0-deploy-cli-extension",
+    "3-party (Test Application)",
+    "Week-3-First-Party-API (Test Application)"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "client_id": "Week-3-First-Party-API (Test Application)",
+  "audience": "http://localhost:4000/",
+  "scope": []
+}

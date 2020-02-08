@@ -1,0 +1,34 @@
+{
+  "is_token_endpoint_ip_header_trusted": false,
+  "name": "my test dynamic1",
+  "callbacks": [
+    "https://application.example.com/callback",
+    "https://application.example.com/callback2",
+    "https://manage.auth0.com/tester/callback"
+  ],
+  "oidc_conformant": true,
+  "is_first_party": false,
+  "sso_disabled": false,
+  "cross_origin_auth": false,
+  "allowed_clients": [],
+  "native_social_login": {
+    "apple": {
+      "enabled": false
+    },
+    "facebook": {
+      "enabled": false
+    }
+  },
+  "jwt_configuration": {
+    "lifetime_in_seconds": 36000,
+    "secret_encoded": false
+  },
+  "client_aliases": [],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code",
+    "implicit",
+    "refresh_token"
+  ],
+  "custom_login_page_on": true
+}

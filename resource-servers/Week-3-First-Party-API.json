@@ -1,0 +1,19 @@
+{
+  "name": "Week-3-First-Party-API",
+  "identifier": "http://localhost:4000/",
+  "allow_offline_access": false,
+  "skip_consent_for_verifiable_first_party_clients": true,
+  "token_lifetime": 86400,
+  "token_lifetime_for_web": 7200,
+  "signing_alg": "RS256",
+  "scopes": [
+    {
+      "value": "read:admin-apis",
+      "description": "Read admin apis"
+    },
+    {
+      "value": "read:user-apis",
+      "description": "Read user apis"
+    }
+  ]
+}
