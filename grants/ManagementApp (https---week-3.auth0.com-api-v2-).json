@@ -1,6 +1,6 @@
 {
   "client_id": "ManagementApp",
-  "audience": "https://week-3-thirdpartapp.auth0.com/api/v2/",
+  "audience": "https://sumana-deploy-cli.auth0.com/api/v2/",
   "scope": [
     "read:users",
     "update:users",
