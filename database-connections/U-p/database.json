@@ -1,0 +1,36 @@
+{
+  "options": {
+    "mfa": {
+      "active": true,
+      "return_enroll_settings": true
+    },
+    "passwordPolicy": "good",
+    "disable_signup": false,
+    "requires_username": false,
+    "strategy_version": 2,
+    "brute_force_protection": true,
+    "enabledDatabaseCustomization": true,
+    "import_mode": false,
+    "password_no_personal_info": {
+      "enable": false
+    },
+    "password_dictionary": {
+      "enable": false,
+      "dictionary": []
+    },
+    "password_history": {
+      "enable": false,
+      "size": 5
+    },
+    "password_complexity_options": {
+      "min_length": 8
+    }
+  },
+  "strategy": "auth0",
+  "name": "custom-db",
+  "is_domain_connection": false,
+  "realms": [
+    "custom-db"
+  ],
+  "enabled_clients": []
+}
