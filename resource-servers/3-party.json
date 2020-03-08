@@ -1,4 +1,5 @@
 {
+  "id": "5df3b1a474e82e07e47b4eee",
   "name": "3-party",
   "identifier": "urn:3rd-party:api",
   "allow_offline_access": false,

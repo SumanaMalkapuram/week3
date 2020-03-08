@@ -17,6 +17,8 @@
       "enabled": false
     }
   },
+  "client_id": "KdnMq1y8idwrH4QTZ91A1Afm2P06b3Y5",
+  "client_secret": "m2LDkQT3cmrxj56aZ893V0vGx6jV5lknrUnxCqIzU47fvtgnubF3NwJIplwfOFRV",
   "jwt_configuration": {
     "alg": "RS256",
     "lifetime_in_seconds": 36000,
@@ -28,7 +30,8 @@
   "grant_types": [
     "authorization_code",
     "implicit",
-    "refresh_token"
+    "refresh_token",
+    "client_credentials"
   ],
   "custom_login_page_on": true
 }

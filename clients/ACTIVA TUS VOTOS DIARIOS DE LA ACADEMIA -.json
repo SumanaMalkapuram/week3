@@ -1,5 +1,5 @@
 {
-  "name": "ACTIVA TUS VOTOS DIARIOS DELA ACADEMIA ",
+  "name": "ACTIVA TUS VOTOS DIARIOS DE LA ACADEMIA  ",
   "callbacks": [
     "http://app1.com:3000/callback"
   ],
@@ -14,6 +14,8 @@
     }
   },
   "allowed_origins": [],
+  "client_id": "se5Vr4AP0cS40wW2f4wrytn1PUAnmSSS",
+  "client_secret": "G4oLq3lb3bC1mLcYNIVA_CkJwJ5OZ8Mfe3i0h2BVsYcN1VArf1ithByJNefRn6XT",
   "jwt_configuration": {
     "alg": "RS256",
     "lifetime_in_seconds": 36000,
@@ -24,6 +26,7 @@
   "grant_types": [
     "implicit",
     "authorization_code",
+    "client_credentials",
     "refresh_token"
   ],
   "custom_login_page_on": false

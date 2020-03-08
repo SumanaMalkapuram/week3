@@ -14,6 +14,8 @@
   "allowed_logout_urls": [],
   "allowed_clients": [],
   "allowed_origins": [],
+  "client_id": "5NfQjVCe2Qcc29kWbyl70x6YxFT5dlv4",
+  "client_secret": "JpZ6e6i31ZafwntZgTqQMntm6KgzQXsVJwC1rOA-ZeB1CKSu0tJkjNNfVUIGRftU",
   "jwt_configuration": {
     "alg": "RS256",
     "lifetime_in_seconds": 36000,

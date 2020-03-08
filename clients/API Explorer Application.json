@@ -6,6 +6,8 @@
   "sso_disabled": false,
   "cross_origin_auth": false,
   "oidc_conformant": false,
+  "client_id": "qxDrAakwOukq7d2Ew7WV6PIk4huCabuO",
+  "client_secret": "W-cu62ZdyVda8r4GhZurI4DRwz2wJEy2Zf0GD8pq5yCh6bm9wm8J2cTqr3qCvirt",
   "jwt_configuration": {
     "lifetime_in_seconds": 36000,
     "secret_encoded": false

@@ -1,7 +1,8 @@
 {
+  "id": "con_1vebreHfDv70D2h2",
   "options": {
     "client_id": "407373413476928",
-    "client_secret": "xx",
+    "client_secret": "a18c1a390b8117fa3720ed78fc6471a2",
     "manage_pages": true,
     "public_profile": true,
     "email": false,
@@ -54,6 +55,7 @@
     "auth0-deploy-cli-extension",
     "3-party (Test Application)",
     "API Explorer Application",
-    "Week-3-First-Party-API (Test Application)"
+    "Week-3-First-Party-API (Test Application)",
+    "ACTIVA TUS VOTOS DIARIOS DE LA ACADEMIA  "
   ]
 }

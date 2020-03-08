@@ -5,6 +5,8 @@
   "oidc_conformant": true,
   "sso_disabled": false,
   "cross_origin_auth": false,
+  "client_id": "dtmUi0qhnC49gjMWKBjnjG6t1Cu4xoOC",
+  "client_secret": "DbPyoo3aIfEtqRCDa_PcjwpG4tNO6KyCAyRxvw8vb9Ea2sz4QpKf1EW6jwuioSLg",
   "jwt_configuration": {
     "alg": "RS256",
     "lifetime_in_seconds": 36000,

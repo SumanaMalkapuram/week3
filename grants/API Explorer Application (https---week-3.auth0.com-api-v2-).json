@@ -1,6 +1,7 @@
 {
+  "id": "cgr_SSop4OPpDV3UJzOT",
   "client_id": "API Explorer Application",
-  "audience": "https://sumana-deploy-cli.auth0.com/api/v2/",
+  "audience": "https://week-3.auth0.com/api/v2/",
   "scope": [
     "read:client_grants",
     "create:client_grants",

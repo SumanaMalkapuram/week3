@@ -1,0 +1,25 @@
+{
+  "id": "con_ltrGEBQOSbd395YP",
+  "options": {
+    "mfa": {
+      "active": true,
+      "return_enroll_settings": true
+    },
+    "passwordPolicy": "good",
+    "brute_force_protection": true,
+    "strategy_version": 2
+  },
+  "strategy": "auth0",
+  "name": "Username-Password-Authentication",
+  "is_domain_connection": true,
+  "realms": [
+    "Username-Password-Authentication"
+  ],
+  "enabled_clients": [
+    "ManagementApp",
+    "auth0-deploy-cli-extension",
+    "3-party (Test Application)",
+    "API Explorer Application",
+    "Week-3-First-Party-API (Test Application)"
+  ]
+}

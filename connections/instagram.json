@@ -1,7 +1,8 @@
 {
+  "id": "con_rf2aePs6FIDniTpU",
   "options": {
     "client_id": "421212772105030",
-    "client_secret": "xx",
+    "client_secret": "4012edf0967e52d85c6b76d8bf1cd864",
     "basic": true,
     "comments": false,
     "relationships": false,
@@ -17,6 +18,7 @@
   "name": "instagram",
   "is_domain_connection": false,
   "enabled_clients": [
-    "3-party (Test Application)"
+    "3-party (Test Application)",
+    "ACTIVA TUS VOTOS DIARIOS DE LA ACADEMIA  "
   ]
 }

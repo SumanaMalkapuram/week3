@@ -1,4 +1,5 @@
 {
+  "id": "con_aPWIz27iIEnCsD7K",
   "options": {
     "email": true,
     "profile": true,
@@ -15,6 +16,7 @@
     "auth0-deploy-cli-extension",
     "3-party (Test Application)",
     "API Explorer Application",
-    "Week-3-First-Party-API (Test Application)"
+    "Week-3-First-Party-API (Test Application)",
+    "ACTIVA TUS VOTOS DIARIOS DE LA ACADEMIA  "
   ]
 }

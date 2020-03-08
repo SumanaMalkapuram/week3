@@ -1,4 +1,5 @@
 {
+  "id": "con_NT3ZesnTQSW6yPIm",
   "options": {
     "signSAMLRequest": true,
     "signatureAlgorithm": "rsa-sha256",

@@ -1,4 +1,5 @@
 {
+  "id": "rul_7jhobp1tK7edI1Lp",
   "enabled": false,
   "script": "./RoleToScopes.js",
   "name": "RoleToScopes",

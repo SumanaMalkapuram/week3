@@ -1,0 +1,9 @@
+{
+  "id": "test-deploy",
+  "name": "test-deploy",
+  "script": "./test-deploy.js",
+  "dependencies": {},
+  "enabled": true,
+  "triggerId": "credentials-exchange",
+  "secrets": {}
+}

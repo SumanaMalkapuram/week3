@@ -1,4 +1,5 @@
 {
+  "id": "con_VeRnpG3noc8S80Rj",
   "options": {
     "client_id": "",
     "profile": true,
@@ -16,6 +17,7 @@
   "enabled_clients": [
     "auth0-deploy-cli-extension",
     "3-party (Test Application)",
-    "Week-3-First-Party-API (Test Application)"
+    "Week-3-First-Party-API (Test Application)",
+    "ACTIVA TUS VOTOS DIARIOS DE LA ACADEMIA  "
   ]
 }
